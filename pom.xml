@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.myOwnPetClinic</groupId>
 	<artifactId>myOwnPetClinic</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>petclicnic</name>
 	<description>New Pet Clinic From Scratch</description>
 
@@ -43,7 +43,7 @@
 		<developerConnection>
 			scm:git:https://github.com/KarMarcz/PetClinicNew.git
 		</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>myOwnPetClinic-0.0.3</tag>
   </scm>
 
 </project>
