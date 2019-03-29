@@ -1,4 +1,4 @@
-package services;
+package com.myOwnPetClinic.petclinic.services;
 
 import com.myOwnPetClinic.petclinic.model.Pet;
 
