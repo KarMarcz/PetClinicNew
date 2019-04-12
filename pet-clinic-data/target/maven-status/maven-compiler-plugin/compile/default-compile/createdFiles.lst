@@ -1,0 +1,14 @@
+com\myOwnPetClinic\petclinic\services\map\VetServiceMap.class
+com\myOwnPetClinic\petclinic\model\BaseEntity.class
+com\myOwnPetClinic\petclinic\services\CrudService.class
+com\myOwnPetClinic\petclinic\model\PetType.class
+com\myOwnPetClinic\petclinic\services\OwnerService.class
+com\myOwnPetClinic\petclinic\services\VetService.class
+com\myOwnPetClinic\petclinic\model\Owner.class
+com\myOwnPetClinic\petclinic\services\map\OwnerServiceMap.class
+com\myOwnPetClinic\petclinic\model\Person.class
+com\myOwnPetClinic\petclinic\model\Vet.class
+com\myOwnPetClinic\petclinic\services\PetService.class
+com\myOwnPetClinic\petclinic\model\Pet.class
+com\myOwnPetClinic\petclinic\services\map\PetServiceMap.class
+com\myOwnPetClinic\petclinic\services\map\AbstractMapService.class
